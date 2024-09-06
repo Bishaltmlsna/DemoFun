@@ -1,2 +1,2 @@
 # DemoFun
-author -Bishal TImalsina
+author -Bishal TImalsina(i am learning something new)
